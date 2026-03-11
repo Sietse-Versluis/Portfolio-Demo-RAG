@@ -1,2 +1,6 @@
 # Portfolio-Demo-RAG
-RAG-powered Q&amp;A demo for Android manuals
+RAG-gestuurde Q&amp;A demo voor a55 telefoon handleiding.
+
+## Notities
+
+- Bij pdf scans Tesseract installeren zodat de pymupdf4llm extract deze kan lezen.
