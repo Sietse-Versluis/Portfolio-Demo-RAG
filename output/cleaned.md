@@ -1,20 +1,4 @@
-## Apparaatindeling en -functies 
-
-## ▶ GalaxyA55 5G, GalaxyA35 5G: 
-
-**==> picture [383 x 631] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Lade SIM-kaart/ Luidspreker<br>microSD-kaart<br>Lichtsensor<br>Camera aan de voorzijde<br>Volumeknop<br>Zijknop<br>Aanraakscherm<br>Sensorvoor<br>vingerafdrukherkenning<br>Aansluiting koptelefoon/<br>multifunctionele<br>aansluiting (USB Type-C)<br>Microfoon GPS-antenne<br>Camera aan de<br>achterzijde NFC-antenne<br>Flitser<br>Hoofdantenne<br>Luidspreker Microfoon<br>Luchtkanaalopening<br>**----- End of picture text -----**<br>
-
-
-## ▶ GalaxyA56 5G, GalaxyA36 5G: 
-
-**==> picture [366 x 653] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Luidspreker<br>Lichtsensor<br>Camera aan de voorzijde<br>Volumeknop<br>Scherm Zijknop<br>Sensorvoor<br>vingerafdrukherkenning<br>SIM-kaartlade Aansluiting koptelefoon/<br>multifunctionele<br>aansluiting (USB Type-C)<br>Luidspreker<br>Microfoon<br>GPS-antenne<br>Camera aan de<br>achterzijde NFC-antenne<br>Flitser<br>Hoofdantenne<br>Luidspreker<br>Microfoon<br>Luchtkanaalopening<br>**----- End of picture text -----**<br>
-
+## Apparaatindeling en -functies — GalaxyA55 5G, GalaxyA35 5G: — GalaxyA56 5G, GalaxyA36 5G: 
 
 - Wanneeru de luidsprekergebruikt, zoals bij het afspelen van mediabestanden, moet u het apparaat niet te dicht bij uw oorhouden. 
 
@@ -38,13 +22,13 @@ Luidspreker<br>Lichtsensor<br>Camera aan de voorzijde<br>Volumeknop<br>Scherm Zi
 
 ## Hardkeys 
 
-|Hardkeys||
-|---|---|
-|Knop|Functie|
-|Zijknop|•<br>Als het apparaat uit staat, houdt u deze knop ingedrukt om het apparaat aan<br>te zetten.<br>•<br>Indrukken om het scherm in te schakelen of te vergrendelen.<br>•<br>Twee keerindrukken of ingedrukt houden om de dooru ingestelde app of<br>functie te openen.|
-|Zijknop + Knop<br>Volume omlaag|•<br>Gelijktijdig indrukken om een schermafbeelding te maken.<br>•<br>Gelijktijdigingedrukt houden om het apparaat uit te schakelen.|
-
-
+Zijknop:
+Als het apparaat uit staat, houdt u deze knop ingedrukt om het apparaat aan te zetten.
+Indrukken om het scherm in te schakelen of te vergrendelen.
+Twee keerindrukken of ingedrukt houden om de dooru ingestelde app of functie te openen.
+Zijknop + Knop Volume omlaag:
+Gelijktijdig indrukken om een schermafbeelding te maken.
+Gelijktijdigingedrukt houden om het apparaat uit te schakelen.
 
 ## De zijknop instellen 
 
@@ -61,8 +45,6 @@ Laad de batterij op voordat u deze voorhet eerst gebruikt of als u de batterij g
 ## Opladen met kabel 
 
 Sluit de USB-kabel aan op de USB-voedingsadapteren sluit de kabel aan op de multifunctionele aansluiting van het apparaat om de batterij op te laden. Als de batterij volledig is opgeladen, koppelt u de opladerlos van het apparaat. 
-
-**==> picture [234 x 119] intentionally omitted <==**
 
 ## Snel opladen 
 
@@ -146,23 +128,7 @@ Een eSIM is een geïntegreerde digitale SIM en daardooranders dan een fysieke na
 
 - Het gebruik van zowel een nano-SIM-kaart als een eSIM of twee eSIM's kan in sommige gebieden leiden tot lagere gegevensoverdrachtssnelheden. 
 
-## De SIM- of USIM-kaart plaatsen 
-
-## ▶ GalaxyA55 5G, GalaxyA35 5G: 
-
-**==> picture [470 x 204] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-1 2 3 4<br>Onderkant<br>**----- End of picture text -----**<br>
-
-
-## ▶ GalaxyA56 5G, GalaxyA36 5G: 
-
-**==> picture [478 x 190] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-1 2 3 4<br>Onderkant<br>**----- End of picture text -----**<br>
-
+## De SIM- of USIM-kaart plaatsen — GalaxyA55 5G, GalaxyA35 5G: — GalaxyA56 5G, GalaxyA36 5G: 
 
 - 1 Steek de pin vooruitwerpen in het gaatje op de lade om de lade te ontgrendelen. 
 
@@ -186,15 +152,7 @@ Een eSIM is een geïntegreerde digitale SIM en daardooranders dan een fysieke na
 
    - Plaats de lade zo vermogelijk in de ladesleuf om te voorkomen dat ervocht in uw apparaat terechtkomt. 
 
-## Juiste kaart invoegen (GalaxyA55 5G, GalaxyA35 5G) 
-
-**==> picture [320 x 191] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Nano-SIM-kaart 1 Nano-SIM-kaart<br>Onderkant Onderkant<br>Nano-SIM-kaart 2 MicroSD-kaart<br>**----- End of picture text -----**<br>
-
-
-## Een eSIM downloaden 
+## Juiste kaart invoegen (GalaxyA55 5G, GalaxyA35 5G) — Een eSIM downloaden 
 
 Open Instellingen, tik op Verbindingen → SIM-beheer → eSIM toevoegen en volg vervolgens de instructies op het scherm om de eSIM te downloaden. 
 
@@ -216,17 +174,9 @@ Erkunnen extra kosten in rekening worden gebracht wanneeru deze functie gebruikt
 
 - MeerSIM-instellingen: pas aanvullende instellingen aan. 
 
-## microSD-kaart (GalaxyA55 5G, GalaxyA35 5G) 
-
-## SD-kaart plaatsen 
+## microSD-kaart (GalaxyA55 5G, GalaxyA35 5G) — SD-kaart plaatsen 
 
 De capaciteit van de SD-kaart van uw apparaat verschilt mogelijk van die van andere modellen en sommige SD-kaarten zijn mogelijk niet compatibel met uw apparaat, afhankelijk van de fabrikant en het type SD-kaart. Raadpleeg de website van Samsung om de maximale capaciteit van de SD-kaart te controleren die kan worden gebruikt in uw apparaat. 
-
-**==> picture [470 x 196] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-1 2 3 4<br>Onderkant<br>**----- End of picture text -----**<br>
-
 
 - 1 Steek de pin vooruitwerpen in het gaatje op de lade om de lade te ontgrendelen. 
 
@@ -374,9 +324,7 @@ Ga naar www.samsung.com/smartswitch voorinformatie en beperkingen.
 
    - Samsung neemt copyright uiterst serieus. U mag alleen inhoud overzetten die uw eigendom is of waarvooru beschikt overoverdrachtsrechten. 
 
-## Het scherm begrijpen 
-
-## Het scherm bedienen 
+## Het scherm begrijpen — Het scherm bedienen 
 
 - Tikken: tik op het scherm. 
 
@@ -402,13 +350,11 @@ Het apparaat herkent invoervia aanraken mogelijk niet in de buurt van de randen 
 
 Wanneeru het scherm inschakelt, worden de softkeys op de navigatiebalk aan de onderzijde van het scherm weergegeven. De softkeys zijn standaard ingesteld op de knop Recent, de startknop en de knop Terug. De functies van de knoppen hangen o.a. af van de app die op dat moment wordt gebruikt. 
 
-|Knop|Functie|
-|---|---|
-|Recent (<br>)|Tik hierop om de lijst met recente apps te openen.|
-|Start (<br>)|•<br>Tik hierop om terug te gaan naarhet startscherm.<br>•<br>Blijf aanraken omCircle to Searchte starten. Tik op of teken een cirkel rond<br>een afbeeldingof tekst.|
-|Terug(<br>)|Tik hierop om terug te keren naarhet vorige scherm.|
-
-
+Recent ( ): Tik hierop om de lijst met recente apps te openen.
+Start ( ):
+Tik hierop om terug te gaan naarhet startscherm.
+Blijf aanraken omCircle to Searchte starten. Tik op of teken een cirkel rond een afbeeldingof tekst.
+Terug( ): Tik hierop om terug te keren naarhet vorige scherm.
 
 ## De navigatiebalk verbergen 
 
@@ -427,12 +373,6 @@ Op het Apps-scherm worden pictogrammen weergegeven vooralle apps, waaronderapps 
 Veeg op het startscherm omhoog om het Apps-scherm te openen. 
 
 Veeg in het Apps-scherm omhoog of omlaag om terug te gaan naarhet startscherm. U kunt ook op de Startknop ( ) of de knop Terug ( ) tikken. 
-
-**==> picture [419 x 247] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Favoriete apps Finder<br>Startscherm Apps-scherm<br>**----- End of picture text -----**<br>
-
 
 Als u de Apps-knop aan het startscherm toevoegt, kunt u het Apps-scherm openen doorop deze knop te tikken. Blijf op het startscherm een leeg gebied aanraken, tik op Instell. en tik vervolgens op de schakelaar Knop Apps-scherm weergeven op Startscherm om deze functie in te schakelen. De Apps-knop ( ) wordt onderaan het startscherm toegevoegd. 
 
@@ -486,10 +426,6 @@ Sleep op het startscherm of het Apps-scherm een app overeen andere app.
 
 Erwordt een nieuwe map gemaakt met de geselecteerde apps. Tik op Mapnaam en voereen mapnaam in. 
 
-**==> picture [115 x 115] intentionally omitted <==**
-
-**==> picture [116 x 115] intentionally omitted <==**
-
 ## • Meerapps toevoegen 
 
 Tik in de map op het pictogram Apps toevoegen ( ). Tik op de toe te voegen apps en tik op Gereed. U kunt een app ook toevoegen doordeze naarde map te slepen. 
@@ -513,16 +449,6 @@ Als de handgreep van het Edge-vensterniet zichtbaaris, opent u de Instellingen, 
 Handgreep van het Edge-venster 
 
 Edge-venster 
-
-**==> picture [114 x 228] intentionally omitted <==**
-
-**==> picture [114 x 228] intentionally omitted <==**
-
-**==> picture [88 x 23] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Instellingen van het<br>Edge-venster<br>**----- End of picture text -----**<br>
-
 
 ## Vergrendelscherm 
 
@@ -552,38 +478,30 @@ Als u een patroon, pincode, wachtwoord of biometrische gegevens instelt voorde s
 
 Pictogrammen verschijnen in de statusbalk aan de bovenzijde van het scherm. De pictogrammen die in de tabel staan, worden het meest gebruikt. 
 
-|Pictogram|Betekenis|
-|---|---|
-||Nieuwe meldingen|
-||Geen signaal|
-||Signaalsterkte|
-||Roaming (buiten het gebruikelijke servicegebied)|
-||GPRS-netwerkverbinding|
-||EDGE-netwerkverbinding|
-||3G/UMTS-netwerkverbinding|
-||HSDPA-netwerkverbinding|
+- Nieuwe meldingen
+- Geen signaal
+- Signaalsterkte
+- Roaming (buiten het gebruikelijke servicegebied)
+- GPRS-netwerkverbinding
+- EDGE-netwerkverbinding
+- 3G/UMTS-netwerkverbinding
+- HSDPA-netwerkverbinding
 
-
-
-|Pictogram|Betekenis|
-|---|---|
-||HSPA+-netwerkverbinding|
-|/|4G/LTE-netwerkverbinding|
-||5G-netwerkverbinding|
-||Met LTE-netwerk verbonden in LTE-netwerk dat het 5G-netwerk bevat|
-||Wi-Fi-verbinding|
-||Bluetooth-functie ingeschakeld|
-||Locatieservices worden gebruikt|
-||Telefoongesprek gaande|
-||Gemiste oproep|
-||Nieuw SMS- of MMS-bericht|
-||Alarm ingeschakeld|
-|/|Dempen/Trilstand|
-||Vliegtuigstand ingeschakeld|
-||Fout opgetreden of voorzichtigheid vereist|
-|/|Batterij opladen/Batterijniveau|
-
-
+- HSPA+-netwerkverbinding
+/: 4G/LTE-netwerkverbinding
+- 5G-netwerkverbinding
+- Met LTE-netwerk verbonden in LTE-netwerk dat het 5G-netwerk bevat
+- Wi-Fi-verbinding
+- Bluetooth-functie ingeschakeld
+- Locatieservices worden gebruikt
+- Telefoongesprek gaande
+- Gemiste oproep
+- Nieuw SMS- of MMS-bericht
+- Alarm ingeschakeld
+/: Dempen/Trilstand
+- Vliegtuigstand ingeschakeld
+- Fout opgetreden of voorzichtigheid vereist
+/: Batterij opladen/Batterijniveau
 
 - De statusbalk verschijnt mogelijk niet aan de bovenkant van het scherm in alle apps. Sleep van de bovenkant van het scherm naarbeneden om de statusbalk weerte geven. 
 
@@ -599,31 +517,11 @@ Wanneeru nieuwe meldingen ontvangt, verschijnen pictogrammen in de statusbalk. O
 
 Als u het meldingenvensterwilt openen, veegt u omlaag op het scherm, behalve de rechterkant. Veeg omhoog op het scherm om het meldingenvensterte sluiten. 
 
-**==> picture [114 x 220] intentionally omitted <==**
-
-**==> picture [129 x 220] intentionally omitted <==**
-
-**==> picture [94 x 235] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-De meldingsdetails<br>weergeven en<br>verschillende acties<br>uitvoeren.<br>Alle meldingen<br>wissen.<br>De<br>meldingsinstellingen<br>openen.<br>**----- End of picture text -----**<br>
-
-
 ## VensterSnelle instellingen 
 
 Doorop een knop te tikken, kunt u specifieke functies in- of uitschakelen, zoals Wi-Fi of Bluetooth. Als u het vensterSnelle instellingen wilt openen, veegt u omlaag vanaf de rechterbovenhoek van het scherm. Als u het vensterSnelle instellingen wilt sluiten, veegt u omhoog op het scherm. 
 
 U kunt gedetailleerde instellingen bekijken dooreen knop te blijven aanraken. Als u knoppen wilt bewerken, tikt u op het pictogram Bewerken ( ) → Bewerken. 
-
-**==> picture [114 x 219] intentionally omitted <==**
-
-**==> picture [114 x 219] intentionally omitted <==**
-
-**==> picture [64 x 20] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Meer knoppen<br>controleren.<br>**----- End of picture text -----**<br>
-
 
 Deze afbeelding kan verschillen, afhankelijk van de regio of het model. 
 
@@ -659,9 +557,7 @@ Bedien apparaten die zijn verbonden met apps voorapparaatbeheer, zoals SmartThin
 
 - 3 Selecteereen apparaat om het te bedienen of selecteereen handmatige routine om deze te starten. 
 
-## Schermafbeelding en schermrecorder 
-
-## Schermafbeelding 
+## Schermafbeelding en schermrecorder — Schermafbeelding 
 
 Maak een schermafbeelding terwijl u het apparaat gebruikt. U kunt daarna het vastgelegde scherm bijsnijden, delen of erin schrijven en tekenen. Het is ook mogelijk het huidige scherm en het gebied waarin u kunt bladeren vast te leggen. 
 
@@ -719,15 +615,11 @@ U kunt het scherm opnemen terwijl u het apparaat gebruikt.
 
       - Als u de instellingen van de schermrecorderwilt wijzigen, opent u de Instellingen en tikt u op Geavanceerde functies → Schermafbeeldingen en schermopnamen. 
 
-## Tekst invoeren 
-
-## Toetsenbordindeling 
+## Tekst invoeren — Toetsenbordindeling 
 
 Erverschijnt automatisch een toetsenbord wanneeru tekst invoert. 
 
 Aanvullende toetsenbordfuncties gebruiken. Hoofdletters invoeren. Als u alles in hoofdletters wilt invoeren, tikt u twee keer hierop. Symbolen invoeren. 
-
-**==> picture [115 x 94] intentionally omitted <==**
 
 Meer toetsenbordfuncties openen. Een voorgaand teken verwijderen. Naar de volgende regel gaan. Een spatie invoeren. 
 
@@ -775,9 +667,7 @@ Tijdens het gebruik van sommige apps, zoals Galerij of Camera, kunt u tekst extr
 
 - 3 Selecteerde gewenste optie. 
 
-## Apps en functies 
-
-## Introductie 
+## Apps en functies — Introductie 
 
 Gebruik apps en verschillende functies van het apparaat. 
 
@@ -785,11 +675,7 @@ Dit hoofdstuk is een algemene handleiding voorapps en functies van Samsung-appar
 
 Afhankelijk van het model kan sommige inhoud afwijken of zijn beschrijvingen van apps of functies opgenomen die niet beschikbaarzijn op uw apparaat. 
 
-**==> picture [170 x 171] intentionally omitted <==**
-
-## Apps installeren of verwijderen 
-
-## Galaxy Store 
+## Apps installeren of verwijderen — Galaxy Store 
 
 Hierkunt u apps kopen en downloaden. U kunt apps downloaden die speciaal voorSamsung Galaxy-apparaten zijn gemaakt. 
 
@@ -807,9 +693,7 @@ Open de app Play Store. Bladerdoorapps op categorie of zoek naarapps met een zoe
 
 Als u de instellingen voorautomatisch bijwerken wilt wijzigen, tikt u op het accountpictogram, tikt u op Instellingen → Netwerkvoorkeuren → Apps automatisch updaten en selecteert u een optie. 
 
-## Apps beheren 
-
-## Apps verwijderen of uitschakelen 
+## Apps beheren — Apps verwijderen of uitschakelen 
 
 Blijf een app aanraken en selecteereen optie. 
 
@@ -833,9 +717,7 @@ Als u de instellingen voorapp-machtigingen op machtigingscategorie wilt bekijken
 
 Als u geen machtigingen verleent aan apps, werken de basisfuncties van de apps mogelijk niet goed. 
 
-## Telefoon 
-
-## Introductie 
+## Telefoon — Introductie 
 
 U kunt spraak- en video-oproepen plaatsen en aannemen. 
 
@@ -867,9 +749,7 @@ Als u bijvoorbeeld het nummer 123 instelt als snelkeuzenummer, tikt u op 1, tikt
 
 - 3 Voerhet landnummer, netnummeren telefoonnummerin en tik op het pictogram Bellen ( ). 
 
-## Oproepen ontvangen 
-
-## Een oproep aannemen 
+## Oproepen ontvangen — Een oproep aannemen 
 
 Sleep bij een inkomende oproep het pictogram Beantwoorden ( ) buiten de grote cirkel. 
 
@@ -891,15 +771,11 @@ Wanneervia geblokkeerde nummers wordt geprobeerd contact met u op te nemen, ontv
 
 U kunt ook oproepen blokkeren van personen die hun beller-id hebben uitgeschakeld. Tik op de schakelaar Oproepen onbekende nummers blokkeren om de functie in te schakelen. 
 
-## Contacten 
-
-## Introductie 
+## Contacten — Introductie 
 
 U kunt nieuwe contacten toevoegen of contacten beheren op het apparaat. 
 
-## Contacten toevoegen 
-
-## Een nieuw contact maken 
+## Contacten toevoegen — Een nieuw contact maken 
 
 - 1 Open de app Contacten en tik op het pictogram Maken ( ). 
 
@@ -997,9 +873,7 @@ Mensen kunnen uw profiel bekijken wanneeru ze belt of wanneerze uw contactinform
 
 - 2 Tik op Profielkaart en -foto en tik op de schakelaar Profielkaart en -foto delen om de functie in te schakelen. 
 
-## Berichten (GalaxyA55 5G, GalaxyA35 5G) 
-
-## Introductie 
+## Berichten (GalaxyA55 5G, GalaxyA35 5G) — Introductie 
 
 U kunt berichten verzenden en bekijken op conversatie. 
 
@@ -1039,9 +913,7 @@ Blijf een te verwijderen bericht aanraken en tik op Verwijderen.
 
 Open de app Berichten en tik op het pictogram Meeropties ( ) → Instellingen. U kunt ongewenste berichten blokkeren, meldingsinstellingen wijzigen en meer. 
 
-## Camera 
-
-## Introductie 
+## Camera — Introductie 
 
 U kunt foto's maken en video's opnemen met verschillende standen en instellingen. 
 
@@ -1069,17 +941,9 @@ U kunt de app ook openen doortwee keerop de zijknop te drukken of doorhet pictog
 
 - 3 Tik op het pictogram Foto maken ( ) om een foto te maken. Als u de fotostand wilt wijzigen, sleept u de lijst met fotostanden naarlinks of rechts of veegt u naar links of rechts op het voorbeeldscherm. 
 
-**==> picture [64 x 10] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-In-/uitzoomen<br>**----- End of picture text -----**<br>
-
-
 Een foto maken. 
 
 Voorbeeldminiatuur 
-
-**==> picture [114 x 233] intentionally omitted <==**
 
 Opties voor de huidige fotostand 
 
@@ -1120,14 +984,6 @@ Om in of uit te zoomen tijdens gebruik van de camera aan de achterzijde selectee
 U kunt ook het gewenste zoomniveau selecteren in de lijst met zoomniveaus die verschijnt wanneeru op het zoompictogram tikt. 
 
 Om de zoom nauwkeurigeraf te stellen sleept u het zoompictogram of knijpt u twee vingers samen of spreid u ze op het voorbeeldscherm. 
-
-**==> picture [115 x 177] intentionally omitted <==**
-
-**==> picture [99 x 11] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Lijst met zoomniveaus<br>**----- End of picture text -----**<br>
-
 
 ## De scherpstelling (AF) en belichting (AE) vergrendelen 
 
@@ -1204,16 +1060,6 @@ Tik op het voorbeeldscherm op het pictogram Snelle besturingselementen ( ) → h
 - 4 Tik op het pictogram Foto maken ( ) om een foto te maken. 
 
 Ideale compositie 
-
-**==> picture [38 x 11] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Richtlijn<br>**----- End of picture text -----**<br>
-
-
-**==> picture [114 x 134] intentionally omitted <==**
-
-**==> picture [115 x 134] intentionally omitted <==**
 
 ## Selfies maken 
 
@@ -1421,8 +1267,6 @@ Het apparaat legt het moment vast in superslow motion en de opname wordt opgesla
 
 Gedeelte voor slow motion 
 
-**==> picture [143 x 40] intentionally omitted <==**
-
 Bewerkingsbalk van sectie Eindgreep 
 
 Startgreep 
@@ -1440,14 +1284,6 @@ Een video opnemen voorweergave in slow motion. U kunt delen van uwvideo opgeven 
 - 3 Tik op het voorbeeldscherm op de voorbeeldminiatuur. Het snelle gedeelte van de video wordt als slow motion-gedeelte ingesteld en de video wordt afgespeeld. Erworden automatisch maximaal twee slow motion-gedeelten gemaakt op basis van de video. 
 
 Als u het slow motion-gedeelte wilt bewerken, tikt u op het pictogram Bewerken ( ) en sleept u de bewerkingsbalk van het gedeelte naarlinks of rechts. 
-
-**==> picture [98 x 51] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Slow motion-gedeelte<br>Startgreep<br>**----- End of picture text -----**<br>
-
-
-**==> picture [143 x 39] intentionally omitted <==**
 
 Bewerkingsbalk van sectie Eindgreep 
 
@@ -1559,17 +1395,13 @@ Tik in het voorbeeldscherm op het pictogram Snelle besturingselementen ( ) → h
 
 Sommige functies zijn mogelijk niet beschikbaar, afhankelijk van het model. 
 
-## Galerij 
-
-## Introductie 
+## Galerij — Introductie 
 
 Afbeeldingen en video's openen die op uw apparaat zijn opgeslagen. U kunt afbeeldingen en video's ook per album beheren of verhalen maken. 
 
 ## Galerij gebruiken 
 
 Open de app Galerij. 
-
-**==> picture [115 x 223] intentionally omitted <==**
 
 Meer opties Zoeken naar foto's en video's. 
 
@@ -1582,8 +1414,6 @@ Open de app Galerij en selecteereen afbeelding. Als u andere bestanden wilt weer
 De afbeelding wijzigen. 
 
 De afbeelding toevoegen aan Favorieten. Photo assist / Details en aanvullende functies bekijken. 
-
-**==> picture [115 x 225] intentionally omitted <==**
 
 Meer opties 
 
@@ -1630,12 +1460,6 @@ Het bijgesneden gebied wordt als bestand opgeslagen.
 Open de app Galerij en selecteereen video die u wilt afspelen. Als u andere bestanden wilt weergeven, veegt u op het scherm naarlinks of rechts. 
 
 Als u meeropties wilt gebruiken tijdens het afspelen, tikt u op het pictogram Meeropties ( ) → Openen in Videospeler. 
-
-**==> picture [482 x 331] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Naar de volgende video De inhoud op een groot<br>gaan. Blijven aanraken om scherm bekijken met<br>snel vooruit te spoelen. behulp van de Smart View<br>functie.<br>Het afspelen onderbreken De instellingen voor<br>en hervatten. ondertiteling configureren.<br>Naar de vorige video gaan.<br>Blijven aanraken om terug Meer opties<br>te spoelen.<br>Terug- of vooruitspoelen<br>door de balk te verslepen.<br>Het afspeelscherm<br>vergrendelen.<br>Het huidige scherm<br>vastleggen. Het scherm draaien.<br>Een GIF maken.<br>De afspeelsnelheid<br>wijzigen.<br>De schermverhouding<br>wijzigen.<br>Overschakelen naar de<br>pop-up-videospeler.<br>**----- End of picture text -----**<br>
-
 
 Sleep omhoog of omlaag aan de linkerzijde van het afspeelscherm om de helderheid aan te passen of sleep omhoog of omlaag aan de rechterzijde van het afspeelscherm om het volume aan te passen. Als u terug of snel vooruit wilt spoelen, veegt u naarlinks of rechts op het afspeelscherm. 
 
@@ -1697,13 +1521,13 @@ U kunt ook de ontwakingszin zeggen, zoals 'Hi, Bixby' of 'Bixby' en zeggen wat u
 
 ## Een ontwakingszin instellen 
 
-- 1 ▶ GalaxyA55 5G, GalaxyA35 5G: open Instellingen, tik op Geavanceerde functies → Bixby → Gesproken wake-up en tik vervolgens op de schakelaarom deze functie in te schakelen. 
+- 1 GalaxyA55 5G, GalaxyA35 5G: open Instellingen, tik op Geavanceerde functies → Bixby → Gesproken wake-up en tik vervolgens op de schakelaarom deze functie in te schakelen. 
 
    - GalaxyA56 5G, GalaxyA36 5G: open Instellingen en tik op Geavanceerde functies → Bixby → 
 
    - Stemregistratie. 
 
-- 2 ▶ GalaxyA55 5G, GalaxyA35 5G: selecteereen dooru gewenste ontwakingszin onder Wake-up phrase. Om Bixby met uw stem te wekken tikt u op de schakelaar Respond to myvoice om deze functie in te schakelen. 
+- 2 GalaxyA55 5G, GalaxyA35 5G: selecteereen dooru gewenste ontwakingszin onder Wake-up phrase. Om Bixby met uw stem te wekken tikt u op de schakelaar Respond to myvoice om deze functie in te schakelen. 
 
    - GalaxyA56 5G, GalaxyA36 5G: selecteerde dooru gewenste ontwakingszin onder Gesproken 
 
@@ -1753,19 +1577,13 @@ Start BixbyVision met behulp van een van deze methoden.
 
       - Als sommige functies niet worden weergegeven, start u BixbyVision, tikt u op het pictogram Meer opties ( ) → Instellingen en tikt u op de schakelknoppen naast de functies die u wilt inschakelen. 
 
-## Multi window 
-
-## (Meerdere apps tegelijk gebruiken) 
+## Multi window — (Meerdere apps tegelijk gebruiken) 
 
 Start apps tegelijkertijd in de weergave met gesplitst scherm of meerdere apps in de pop-upweergave. 
 
 Bepaalde apps bieden mogelijk geen ondersteuning voordeze functie. 
 
-**==> picture [115 x 157] intentionally omitted <==**
-
 Weergave met gesplitst scherm 
-
-**==> picture [116 x 157] intentionally omitted <==**
 
 Pop-upweergave 
 
@@ -1803,8 +1621,6 @@ Huidige pagina als favoriet instellen.
 
 De belangrijkste punten van de wegpagina vertalen, samenvatten of hardop voorlezen. De startpagina openen. Wisselen tussen pagina's. 
 
-**==> picture [115 x 225] intentionally omitted <==**
-
 De huidige webpagina vernieuwen. 
 
 Uw favorieten openen. Tabbladen beheren / Geheime stand gebruiken. Meer opties 
@@ -1819,9 +1635,7 @@ Als u een wachtwoord instelt voorde Geheime stand, kunt u voorkomen dat anderen 
 
    - In de Geheime stand worden de kleuren van de werkbalken op het apparaat veranderd. Tik op het pictogram Tabbladen ( ) → Geheime stand uitschakelen om de Geheime stand uit te schakelen. 
 
-## Samsung Wallet 
-
-## Introductie 
+## Samsung Wallet — Introductie 
 
 Gebruik verschillende handige functies in Samsung Wallet. U kunt een betaling doen, uw identiteit verifiëren via uw biometrische gegevens, tickets of instapkaarten bekijken en meer. 
 
@@ -2049,9 +1863,7 @@ U kunt spraakopnames omzetten in scherm tekst en bewerken.
 
    - Om de geconverteerde tekst uit de spraakopname te verwijderen, tikt u op het pictogram Meer opties ( ) → Transcriptie verwijderen. 
 
-## Mijn bestanden 
-
-## (Bestanden bekijken en beheren) 
+## Mijn bestanden — (Bestanden bekijken en beheren) 
 
 Hierkunt u verschillende bestanden openen en beheren die zijn opgeslagen op het apparaat. 
 
@@ -2093,9 +1905,7 @@ Gaming Hub verzamelt de games die u hebt gedownload via Play Store en Galaxy Sto
 
 Tik op het pictogram Uitvouwen ( ), blijf een game aanraken en tik vervolgens op Verwijderen uit Gaming Hub. 
 
-## Game Booster 
-
-## (Uw gameomgeving configureren) 
+## Game Booster — (Uw gameomgeving configureren) 
 
 U kunt games in een betere omgeving spelen met Game Booster. U kunt Game Boostergebruiken terwijl u games speelt. 
 
@@ -2154,8 +1964,6 @@ U kunt apps in pop-upvensters openen tijdens het spelen van een game. Tik op het
 U kunt slimme huishoudelijke apparaten en IoT-producten (Internet of Things) bedienen en beheren. Open de app SmartThings. Tik voormeerinformatie op Menu → Instructies. 
 
 Locaties beheren. Anderen uitnodigen met een QR-code. 
-
-**==> picture [115 x 225] intentionally omitted <==**
 
 Apparaten in de kaartweergave controleren en beheren. 
 
@@ -2249,9 +2057,7 @@ Deze functie wordt alleen ondersteund op de serie Galaxy Buds.
 
 - 5 Accepteerhet verbindingsverzoek op de telefoon van uwvriend(in). Wanneeru muziek afspeelt via uw telefoon, kunt u ersamen naarluisteren via beide Buds. 
 
-## Smart View 
-
-## (Op een tv-scherm spiegelen) 
+## Smart View — (Op een tv-scherm spiegelen) 
 
 Bekijk de weergegeven inhoud van uw telefoon op een groot scherm dooruw telefoon te verbinden met een tv of monitordie de functie Screen Mirroring (Scherm spiegelen) ondersteunt. 
 
@@ -2301,9 +2107,7 @@ Als u meerapp-informatie wilt bekijken, opent u het Help-menu van de betreffende
 
 Sommige apps zijn mogelijk niet beschikbaar, afhankelijk van de serviceproviderof het model. 
 
-## Instellingen 
-
-## Introductie 
+## Instellingen — Introductie 
 
 Hierkunt u de apparaatinstellingen aanpassen. 
 
@@ -2315,17 +2119,13 @@ Dit hoofdstuk is een algemene handleiding voorinstellingen en functies van Samsu
 
 Afhankelijk van het model kan sommige inhoud afwijken of zijn beschrijvingen van opties of functies opgenomen die niet beschikbaarzijn op uw apparaat. 
 
-**==> picture [176 x 177] intentionally omitted <==**
-
 ## Inloggen bij je Galaxy 
 
 Meld u aan bij uw Samsung account en beheerhet. 
 
 Tik op het scherm Instellingen op Inloggen bij je Galaxy. 
 
-## Verbindingen 
-
-## Opties 
+## Verbindingen — Opties 
 
 Hierkunt u de instellingen wijzigen voorverschillende verbindingen, bijvoorbeeld de Wi-Fi-functie en Bluetooth. 
 
@@ -2589,9 +2389,7 @@ Tik op het scherm Instellingen op Verbonden apparaten.
 
 Sommige functies zijn mogelijk niet beschikbaar, afhankelijk van het model. 
 
-## Standen en routines 
-
-## Standen gebruiken 
+## Standen en routines — Standen gebruiken 
 
 Voeg een modus toe op basis van uw huidige activiteit of locatie. De instellingen van uw apparaat worden aangepast aan uw activiteit of situatie. U kunt de modus in- of uitschakelen via het vensterSnelle instellingen. 
 
@@ -2631,9 +2429,7 @@ Als u routines handmatig wilt uitvoeren, tikt u op het pictogram Starten ( ) naa
 
 Als u actieve routines wilt stoppen, tikt u op het pictogram Routinelijst ( ), tikt u op de routine onder Actief en tikt u vervolgens op Stoppen. U kunt ook op de widget van de routine tikken op het startscherm. 
 
-## Geluiden en trillen 
-
-## Opties 
+## Geluiden en trillen — Opties 
 
 U kunt de instellingen voordiverse geluiden op het apparaat wijzigen. 
 
@@ -2721,9 +2517,7 @@ Tik op het scherm Instellingen op Meldingen.
 
 - Geavanceerde instellingen: configureergeavanceerde instellingen voorde meldingen. 
 
-## Display 
-
-## Opties 
+## Display — Opties 
 
 U kunt de instellingen voorhet display en het startscherm wijzigen. 
 
@@ -2871,9 +2665,7 @@ Instellingen configureren voorhet startscherm, zoals de schermindeling.
 
 Tik op het scherm Instellingen op Startscherm. 
 
-## Vergrendelscherm en AOD 
-
-## Opties 
+## Vergrendelscherm en AOD — Opties 
 
 Wijzig de instellingen voorhet vergrendelscherm en de Always On Display. 
 
@@ -2915,9 +2707,7 @@ Tik op het scherm Instellingen op Vergrendelscherm en AOD → Ontgrendelen verle
 
 - Als u het apparaat vieruurlang niet gebruikt of wanneeru het apparaat inschakelt, moet u het scherm ontgrendelen met het ingestelde patroon, de pincode of het wachtwoord. 
 
-## Always On Display 
-
-## (informatie weergeven als het scherm is uitgeschakeld) 
+## Always On Display — (informatie weergeven als het scherm is uitgeschakeld) 
 
 U kunt informatie op het scherm, zoals de klok, bekijken wanneerhet is uitgeschakeld. 
 
@@ -2939,9 +2729,7 @@ Als het scherm is vergrendeld, moet u dit eerst ontgrendelen om meldingen te kun
 
 Tik op het scherm Instellingen op Vergrendelscherm en AOD en vervolgens op de schakelaar Always On Display om deze functie uit te schakelen. 
 
-## Beveiliging en privacy 
-
-## Opties 
+## Beveiliging en privacy — Opties 
 
 Controleerde beveiligings- en privacystatus van het apparaat en wijzig de instellingen. Tik op het scherm Instellingen op Beveiliging en privacy. 
 
@@ -3311,9 +3099,7 @@ Tik op het scherm Instellingen op Veiligheid en noodsituaties.
 
 Sommige functies zijn mogelijk niet beschikbaarafhankelijk van de regio of het model. 
 
-## Accounts en back-up 
-
-## Opties 
+## Accounts en back-up — Opties 
 
 U kunt de gegevens van uw apparaat synchroniseren, hiervan een back-up maken of ze terugzetten via Samsung Cloud. U kunt zich ook aanmelden bij accounts, zoals uw Samsung account of Google-account of via Smart Switch gegevens overzetten naarof van andere apparaten. 
 
@@ -3363,9 +3149,7 @@ U kunt instellingen configureren voorbepaalde functies van Google.
 
 Tik op het scherm Instellingen op Google. 
 
-## Geavanceerde functies 
-
-## Opties 
+## Geavanceerde functies — Opties 
 
 U kunt geavanceerde functies inschakelen en de instellingen wijzigen waarmee ze worden beheerd. 
 
@@ -3661,11 +3445,7 @@ Als u de naam van uw apparaat wilt wijzigen, tikt u op Naam wijzigen.
 
    - Gemeten SoH-waarde (batterijstatus/gezondheidstoestand) 
 
-# Kennisgevingen voorgebruik 
-
-**==> picture [172 x 146] intentionally omitted <==**
-
-## Voorzorgsmaatregelen voorhet gebruik van het apparaat 
+# Kennisgevingen voorgebruik — Voorzorgsmaatregelen voorhet gebruik van het apparaat 
 
 Lees deze gebruikershandleiding doorzodat u het apparaat veilig en correct in gebruik neemt. 
 
@@ -3771,19 +3551,9 @@ Als het apparaat wordt blootgesteld aan waterof verontreinigende stoffen, volgt 
 
 Uw Samsung Galaxy-apparaat biedt geen permanente water- en stofbestendigheid. Deze kan na verloop van tijd afnemen als gevolg van normale slijtage. 
 
-## Situaties waarin het apparaat oververhit kan raken en oplossingen 
-
-## Het apparaat wordt warm tijdens het opladen van de batterij 
+## Situaties waarin het apparaat oververhit kan raken en oplossingen — Het apparaat wordt warm tijdens het opladen van de batterij 
 
 Tijdens het opladen kunnen het apparaat en de opladerwarm worden. Tijdens draadloos opladen of snel opladen kan het apparaat nog warmeraanvoelen. Dit is niet van invloed op de levensduurof prestaties van het apparaat en valt onderhet normale gebruik van het apparaat. Als de batterij te heet wordt, kan dit de oplaadsnelheid verlagen of kan de opladerstoppen met opladen. 
-
-**==> picture [36 x 227] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-•<br>•<br>•<br>**----- End of picture text -----**<br>
-
-
-**==> picture [37 x 206] intentionally omitted <==**
 
 ## Doe het volgende wanneerhet apparaat warm wordt: 
 
@@ -3845,12 +3615,6 @@ Bekijk de volgende voorbeelden van situaties waarin het apparaat oververhit kan 
 
 - Tijdens het roamen 
 
-**==> picture [36 x 271] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-•<br>•<br>•<br>•<br>•<br>•<br>•<br>**----- End of picture text -----**<br>
-
-
 ## Doe het volgende wanneerhet apparaat warm wordt: 
 
 - Zorg ervoordat het apparaat is bijgewerkt met de nieuwste software. 
@@ -3866,8 +3630,6 @@ Bekijk de volgende voorbeelden van situaties waarin het apparaat oververhit kan 
 - Verminderde helderheid van het scherm. 
 
 - Gebruik het apparaat enige tijd niet wanneerhet oververhit raakt of gedurende langere tijd heet aanvoelt. Als het apparaat oververhit blijft raken, neemt u contact op met een Samsung Servicecenterof een geautoriseerd servicecenter. 
-
-**==> picture [37 x 271] intentionally omitted <==**
 
 ## Voorzorgsmaatregelen vooroververhitting van het apparaat 
 
@@ -3909,11 +3671,7 @@ In de volgende omstandigheden kan uw apparaat warmerworden vanwege omgevingsfact
 
    - Deze functie is mogelijk niet beschikbaar, afhankelijk van de regio, de serviceproviderof het model. 
 
-## Bijlage 
-
-**==> picture [142 x 172] intentionally omitted <==**
-
-## Problemen oplossen 
+## Bijlage — Problemen oplossen 
 
 Probeerde volgende probleemoplossingen, voordat u contact opneemt met een Samsung Servicecenterof een geautoriseerd servicecenter. Sommige situaties zijn mogelijk niet van toepassing op uw apparaat. 
 

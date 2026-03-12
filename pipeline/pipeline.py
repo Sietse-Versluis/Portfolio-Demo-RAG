@@ -1,9 +1,10 @@
 from extract import extract
+from clean.clean import clean
 
 
 def run(pdf: str):
-    text = extract(pdf)
-    print(text)
+    txt = extract(pdf)
+    txt = clean(txt)
 
 
 run("data/a55_manual.pdf")
