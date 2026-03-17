@@ -4,6 +4,7 @@ from extract.extract import extract
 from clean.clean import clean, fix_word_spacing
 from chunk.chunk import chunk
 from embed.embed import embed
+from vectordb.safe import safe_to_chromadb
 
 
 def run(pdf: str):
@@ -35,6 +36,9 @@ def run(pdf: str):
         embeddings = json.loads(embeddings_path.read_text(encoding="utf-8"))
     else:
         embeddings = embed(chunks)
+
+    # upload to chromadb
+    safe_to_chromadb(embeddings)
 
 
 run("data/a55_manual.pdf")

@@ -10,7 +10,7 @@ LM_STUDIO_URL = os.getenv("LM_STUDIO_URL")
 
 def call_llm(word: str, sentence: str = "") -> str:
     """Send a single Dutch word to the LLM, with optional sentence context. Returns the word, with a space inserted if two words were merged."""
-    context_line = f"\n\nContext sentence: \"{sentence}\"" if sentence else ""
+    context_line = f'\n\nContext sentence: "{sentence}"' if sentence else ""
 
     response = requests.post(
         LM_STUDIO_URL,
