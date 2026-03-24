@@ -41,4 +41,4 @@ def run(pdf: str):
     safe_to_chromadb(embeddings)
 
 
-run("data/a55_manual.pdf")
+run("data/manual.pdf")
