@@ -206,3 +206,7 @@ __marimo__/
 chroma_db/
 *.bin
 *.sqlite3
+
+/data
+/output
+

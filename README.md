@@ -34,3 +34,19 @@ RAG Q&amp;A demo for a55 phone manual. Usable for more.
 
 - Install ChromaDB in your python environment (see requirements.txt)
 - The databases saves its data in output/chromadb
+
+# Fast-api
+
+## Run fast-api
+
+- Activate your python environment
+- In the environment(cmd):
+
+uvicorn api.main:app --reload
+
+## Run llm
+
+- Open lm studio
+- For this demo I used the "google/gemma-3-27b" model
+
+
