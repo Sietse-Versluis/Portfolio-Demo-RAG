@@ -4,7 +4,7 @@ client = chromadb.PersistentClient(path="output/chromadb")
 collection = client.get_collection("a55_manual")
 
 
-RELEVANCE_THRESHOLD = 0.70
+RELEVANCE_THRESHOLD = 0.65
 
 
 def vector_search(embedding: list[float], top_k: int = 3) -> list[dict]:
@@ -23,6 +23,6 @@ def vector_search(embedding: list[float], top_k: int = 3) -> list[dict]:
     relevant = [hit for hit in hits if hit["score"] >= RELEVANCE_THRESHOLD]
 
     if not relevant:
-        return [hits[0]]  # fallback: beste resultaat ook al is het niet super relevant
+        return []
 
     return relevant

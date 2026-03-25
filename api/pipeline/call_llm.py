@@ -11,6 +11,9 @@ LM_STUDIO_URL = os.getenv("LM_STUDIO_URL")
 def call_llm(question: str, chunks: list[dict]) -> str:
     """Send a question and retrieved chunks to the LLM, returns the answer as a string."""
 
+    if not chunks:
+        return "This information is not available in the provided documentation."
+
     context = "\n\n".join(f"{chunk['title']}:\n{chunk['content']}" for chunk in chunks)
 
     response = requests.post(

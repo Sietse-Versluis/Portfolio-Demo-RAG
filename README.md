@@ -1,7 +1,7 @@
 # Portfolio-Demo-RAG
 RAG Q&amp;A demo for a55 phone manual. Usable for more.
 
-## Pipeline
+# Pipeline
 
 - Install all the requirements in requirements.txt in your python environment.
 
@@ -49,4 +49,9 @@ uvicorn api.main:app --reload
 - Open lm studio
 - For this demo I used the "google/gemma-3-27b" model
 
+- Load the model
+- Activate local api
 
+# Web demo
+
+- open index.html
